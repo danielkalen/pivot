@@ -1,0 +1,20 @@
+{
+  "name": "pivot.js",
+  "version": "1.0.0",
+  "description": "Pivot.js ========= Apple TV 3D hover effect in vanilla JS",
+  "main": "pivot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkalen/pivot.git"
+  },
+  "keywords": [],
+  "author": "wnda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkalen/pivot/issues"
+  },
+  "homepage": "https://github.com/danielkalen/pivot#readme"
+}

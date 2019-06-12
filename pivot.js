@@ -2,7 +2,7 @@
 
   'use strict';
 
-  win.pivot = {
+  module.exports = {
     'init': init
   };
   
