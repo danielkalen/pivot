@@ -1,5 +1,5 @@
 {
-  "name": "pivot.js",
+  "name": "atv-pivot",
   "version": "1.0.0",
   "description": "Pivot.js ========= Apple TV 3D hover effect in vanilla JS",
   "main": "pivot.js",

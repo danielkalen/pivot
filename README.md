@@ -2,6 +2,11 @@ Pivot.js
 =========
 Apple TV 3D hover effect in vanilla JS
 
+Install
+-----
+```
+npm i -S atv-pivot
+```
 Usage
 -----
     <script src="pivot.js"></script>
